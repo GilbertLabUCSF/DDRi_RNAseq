@@ -47,3 +47,10 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+fastq/
+.nextflow/
+work/
+zsh/
+.nextflow.log*
+results.zip
+results/

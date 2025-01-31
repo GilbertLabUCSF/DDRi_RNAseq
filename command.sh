@@ -1,0 +1,1 @@
+nextflow run nf-core/rnaseq --input samplesheet.csv --outdir results --gtf /home/ashirb/reference_files/GRCm39/gencode.vM35.chr_patch_hapl_scaff.annotation.gtf.gz --fasta /home/ashirb/reference_files/GRCm39/GRCm39.primary_assembly.genome.fa.gz --igenomes_ignore --genome null -profile docker
